@@ -1,1 +1,1586 @@
-[]
+[
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693561",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693561",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3400",
+    "market_price_diff": "0.09000000000000002",
+    "market_price_percentage_diff": "36.00000000000001"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693502",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-7.142857142857148"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693502",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "-0.05999999999999997",
+    "market_price_percentage_diff": "-20.689655172413783"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693453",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.8100",
+    "market_price_diff": "-0.32999999999999985",
+    "market_price_percentage_diff": "-28.947368421052623"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693459",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "37.5"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693459",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2600",
+    "market_price_diff": "0.13",
+    "market_price_percentage_diff": "100"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693461",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0700",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693461",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.060000000000000026",
+    "market_price_percentage_diff": "28.571428571428587"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693537",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "-0.07",
+    "market_price_percentage_diff": "-31.818181818181824"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693537",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "31.57894736842105"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693460",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2800",
+    "market_price_diff": "0.07000000000000003",
+    "market_price_percentage_diff": "33.33333333333336"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693460",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1700",
+    "market_price_diff": "-0.03999999999999998",
+    "market_price_percentage_diff": "-19.047619047619037"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693558",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "0.009999999999999981",
+    "market_price_percentage_diff": "7.142857142857128"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693558",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "9.999999999999995"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693526",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0900",
+    "market_price_diff": "-0.03",
+    "market_price_percentage_diff": "-25"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693526",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "-0.019999999999999962",
+    "market_price_percentage_diff": "-6.896551724137918"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693500",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "-0.01999999999999999",
+    "market_price_percentage_diff": "-8.33333333333333"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693500",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.1",
+    "market_price_percentage_diff": "76.92307692307693"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693484",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0900",
+    "market_price_diff": "0.009999999999999995",
+    "market_price_percentage_diff": "12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693484",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1900",
+    "market_price_diff": "-0.01999999999999999",
+    "market_price_percentage_diff": "-9.523809523809518"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693457",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.06999999999999999",
+    "market_price_percentage_diff": "63.636363636363626"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693457",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1800",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-5.263157894736847"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693473",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.03999999999999998",
+    "market_price_percentage_diff": "19.99999999999999"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693473",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693505",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0600",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-14.285714285714295"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693505",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.03999999999999998",
+    "market_price_percentage_diff": "28.57142857142855"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693519",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.5400",
+    "market_price_diff": "0.050000000000000044",
+    "market_price_percentage_diff": "10.204081632653072"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693539",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "20"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693539",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "15.789473684210526"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693528",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-8.33333333333333"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693528",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "33.33333333333333"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693472",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0600",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-14.285714285714295"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693472",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0.04000000000000001",
+    "market_price_percentage_diff": "22.222222222222225"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693503",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2600",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "4.0000000000000036"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693503",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1700",
+    "market_price_diff": "0.020000000000000018",
+    "market_price_percentage_diff": "13.333333333333346"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693488",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-7.142857142857148"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693488",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "-0.16000000000000003",
+    "market_price_percentage_diff": "-40.00000000000001"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693490",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1700",
+    "market_price_diff": "-0.03",
+    "market_price_percentage_diff": "-15"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693490",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3300",
+    "market_price_diff": "-0.019999999999999962",
+    "market_price_percentage_diff": "-5.714285714285704"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693515",
+    "product_sub_type": "Holofoil",
+    "latest_price": "2.0800",
+    "market_price_diff": "0.29000000000000004",
+    "market_price_percentage_diff": "16.201117318435756"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693456",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693456",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1900",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-5.000000000000004"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693448",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1600",
+    "market_price_diff": "0.04000000000000001",
+    "market_price_percentage_diff": "33.33333333333334"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693448",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "15.789473684210526"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693562",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1000",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "11.111111111111121"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693562",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1500",
+    "market_price_diff": "0.009999999999999981",
+    "market_price_percentage_diff": "7.142857142857128"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693494",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0900",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "50"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693494",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2600",
+    "market_price_diff": "0.07",
+    "market_price_percentage_diff": "36.8421052631579"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693507",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "0.039999999999999994",
+    "market_price_percentage_diff": "36.36363636363636"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693507",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "15"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693487",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1400",
+    "market_price_diff": "-0.009999999999999981",
+    "market_price_percentage_diff": "-6.666666666666654"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693487",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "9.090909090909086"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693445",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "-0.06",
+    "market_price_percentage_diff": "-18.18181818181818"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693445",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "5.263157894736847"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693481",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0600",
+    "market_price_diff": "-0.04000000000000001",
+    "market_price_percentage_diff": "-40.00000000000001"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693481",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.060000000000000026",
+    "market_price_percentage_diff": "28.571428571428587"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693474",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1600",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "14.285714285714276"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693474",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "-0.009999999999999981",
+    "market_price_percentage_diff": "-4.166666666666659"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693475",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1400",
+    "market_price_diff": "-0.01999999999999999",
+    "market_price_percentage_diff": "-12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693475",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "-0.01999999999999999",
+    "market_price_percentage_diff": "-7.9999999999999964"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693476",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "-0.06999999999999999",
+    "market_price_percentage_diff": "-38.888888888888886"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693476",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-3.8461538461538494"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693477",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693477",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1900",
+    "market_price_diff": "-0.07",
+    "market_price_percentage_diff": "-26.923076923076927"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693511",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.6100",
+    "market_price_diff": "0.04999999999999993",
+    "market_price_percentage_diff": "8.928571428571416"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693483",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "30"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693483",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "4.545454545454549"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693521",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0900",
+    "market_price_diff": "0.009999999999999995",
+    "market_price_percentage_diff": "12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693521",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.05000000000000002",
+    "market_price_percentage_diff": "22.727272727272734"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693531",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-6.250000000000005"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693531",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2800",
+    "market_price_diff": "0.07000000000000003",
+    "market_price_percentage_diff": "33.33333333333336"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693556",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "4.545454545454549"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693556",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1900",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "11.764705882352935"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693536",
+    "product_sub_type": "Normal",
+    "latest_price": "0.2100",
+    "market_price_diff": "0.04999999999999999",
+    "market_price_percentage_diff": "31.249999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693536",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "-0.009999999999999981",
+    "market_price_percentage_diff": "-4.761904761904753"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693497",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.4000",
+    "market_price_diff": "-0.31999999999999995",
+    "market_price_percentage_diff": "-44.44444444444444"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693563",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "13.636363636363635"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693563",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1300",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-7.142857142857148"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693550",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0800",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693550",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3000",
+    "market_price_diff": "0.09",
+    "market_price_percentage_diff": "42.857142857142854"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693530",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "0.020000000000000004",
+    "market_price_percentage_diff": "18.181818181818183"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693530",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693478",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "0.020000000000000004",
+    "market_price_percentage_diff": "18.181818181818183"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693478",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "13.636363636363635"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693452",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0600",
+    "market_price_diff": "-0.020000000000000004",
+    "market_price_percentage_diff": "-25.000000000000007"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693452",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "15"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693466",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "120"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693466",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.08000000000000002",
+    "market_price_percentage_diff": "42.10526315789475"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693514",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.7200",
+    "market_price_diff": "0.04999999999999993",
+    "market_price_percentage_diff": "7.462686567164169"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693565",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0800",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-11.111111111111107"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693565",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "4.761904761904766"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693493",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1200",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "19.99999999999999"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693493",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.03999999999999998",
+    "market_price_percentage_diff": "19.99999999999999"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693470",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2600",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "4.0000000000000036"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693470",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1400",
+    "market_price_diff": "0.020000000000000018",
+    "market_price_percentage_diff": "16.666666666666682"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693538",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "0.039999999999999994",
+    "market_price_percentage_diff": "36.36363636363636"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693538",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.08000000000000002",
+    "market_price_percentage_diff": "42.10526315789475"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693549",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1200",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-7.692307692307699"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693549",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "35.29411764705882"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693544",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0600",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-14.285714285714295"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693544",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2900",
+    "market_price_diff": "0.10999999999999999",
+    "market_price_percentage_diff": "61.11111111111111"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693504",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.4700",
+    "market_price_diff": "-0.09000000000000008",
+    "market_price_percentage_diff": "-16.071428571428584"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693557",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1200",
+    "market_price_diff": "-0.010000000000000009",
+    "market_price_percentage_diff": "-7.692307692307699"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693557",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "-0.03",
+    "market_price_percentage_diff": "-12"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693492",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1000",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-9.090909090909086"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693492",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "13.636363636363635"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693543",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693543",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3000",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "25"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693455",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1300",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693455",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1800",
+    "market_price_diff": "-0.020000000000000018",
+    "market_price_percentage_diff": "-10.000000000000009"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693523",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1000",
+    "market_price_diff": "0.04000000000000001",
+    "market_price_percentage_diff": "66.66666666666669"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693523",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.08000000000000002",
+    "market_price_percentage_diff": "42.10526315789475"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693522",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1600",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693522",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2900",
+    "market_price_diff": "0.02999999999999997",
+    "market_price_percentage_diff": "11.538461538461526"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693485",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0500",
+    "market_price_diff": "-0.06999999999999999",
+    "market_price_percentage_diff": "-58.33333333333333"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693485",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1900",
+    "market_price_diff": "0.04000000000000001",
+    "market_price_percentage_diff": "26.66666666666667"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693486",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0700",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-12.499999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693486",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.07",
+    "market_price_percentage_diff": "35"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693468",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.5700",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693508",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.6500",
+    "market_price_diff": "-0.19999999999999996",
+    "market_price_percentage_diff": "-23.529411764705877"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693496",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1400",
+    "market_price_diff": "0.020000000000000018",
+    "market_price_percentage_diff": "16.666666666666682"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693496",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "17.64705882352941"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693545",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1500",
+    "market_price_diff": "0.009999999999999981",
+    "market_price_percentage_diff": "7.142857142857128"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693545",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3000",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "3.448275862068969"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693495",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.04999999999999999",
+    "market_price_percentage_diff": "26.315789473684205"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693495",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "5.263157894736847"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693552",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0500",
+    "market_price_diff": "-0.009999999999999995",
+    "market_price_percentage_diff": "-16.66666666666666"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693552",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2400",
+    "market_price_diff": "0.06",
+    "market_price_percentage_diff": "33.33333333333333"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693529",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1400",
+    "market_price_diff": "-0.009999999999999981",
+    "market_price_percentage_diff": "-6.666666666666654"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693529",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2200",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693559",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "-0.020000000000000004",
+    "market_price_percentage_diff": "-15.384615384615389"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693559",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2800",
+    "market_price_diff": "0.10000000000000003",
+    "market_price_percentage_diff": "55.55555555555558"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693525",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1200",
+    "market_price_diff": "-0.04000000000000001",
+    "market_price_percentage_diff": "-25.000000000000007"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693525",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "15"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693463",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.6100",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "1.6666666666666683"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693444",
+    "product_sub_type": "Normal",
+    "latest_price": "0.0700",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "16.666666666666682"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693444",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2700",
+    "market_price_diff": "0.09000000000000002",
+    "market_price_percentage_diff": "50.000000000000014"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693447",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1400",
+    "market_price_diff": "0.020000000000000018",
+    "market_price_percentage_diff": "16.666666666666682"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693447",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2300",
+    "market_price_diff": "0.04000000000000001",
+    "market_price_percentage_diff": "21.052631578947373"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693449",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1000",
+    "market_price_diff": "-0.07999999999999999",
+    "market_price_percentage_diff": "-44.44444444444444"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693449",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693479",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1900",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "18.75"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693479",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.1600",
+    "market_price_diff": "0.01999999999999999",
+    "market_price_percentage_diff": "14.285714285714276"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693499",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693499",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.03",
+    "market_price_percentage_diff": "13.636363636363635"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693532",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "-0.020000000000000004",
+    "market_price_percentage_diff": "-15.384615384615389"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693532",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2600",
+    "market_price_diff": "0.09",
+    "market_price_percentage_diff": "52.941176470588225"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693534",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1600",
+    "market_price_diff": "0.05",
+    "market_price_percentage_diff": "45.45454545454546"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693534",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3000",
+    "market_price_diff": "0.06999999999999998",
+    "market_price_percentage_diff": "30.43478260869564"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693540",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1100",
+    "market_price_diff": "-0.020000000000000004",
+    "market_price_percentage_diff": "-15.384615384615389"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693540",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0.07",
+    "market_price_percentage_diff": "38.88888888888889"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693547",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.009999999999999981",
+    "market_price_percentage_diff": "5.8823529411764595"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693547",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.5700",
+    "market_price_diff": "-0.020000000000000018",
+    "market_price_percentage_diff": "-3.3898305084745797"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693555",
+    "product_sub_type": "Normal",
+    "latest_price": "0.1900",
+    "market_price_diff": "0.12",
+    "market_price_percentage_diff": "171.4285714285714"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693555",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.3400",
+    "market_price_diff": "0.11000000000000001",
+    "market_price_percentage_diff": "47.82608695652174"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693458",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2900",
+    "market_price_diff": "0.03999999999999998",
+    "market_price_percentage_diff": "15.999999999999993"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693458",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.2000",
+    "market_price_diff": "0.010000000000000009",
+    "market_price_percentage_diff": "5.263157894736847"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693506",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2500",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693506",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1700",
+    "market_price_diff": "-0.01999999999999999",
+    "market_price_percentage_diff": "-10.52631578947368"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693527",
+    "product_sub_type": "Reverse Holofoil",
+    "latest_price": "0.2100",
+    "market_price_diff": "-0.07000000000000003",
+    "market_price_percentage_diff": "-25.00000000000001"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693527",
+    "product_sub_type": "Holofoil",
+    "latest_price": "0.1800",
+    "market_price_diff": "0.009999999999999981",
+    "market_price_percentage_diff": "5.8823529411764595"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693462",
+    "product_sub_type": "Holofoil",
+    "latest_price": "7.1900",
+    "market_price_diff": "-0.09999999999999964",
+    "market_price_percentage_diff": "-1.3717421124828484"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693489",
+    "product_sub_type": "Holofoil",
+    "latest_price": "14.3700",
+    "market_price_diff": "-1.620000000000001",
+    "market_price_percentage_diff": "-10.131332082551602"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693491",
+    "product_sub_type": "Holofoil",
+    "latest_price": "11.8300",
+    "market_price_diff": "-2.24",
+    "market_price_percentage_diff": "-15.920398009950251"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693446",
+    "product_sub_type": "Holofoil",
+    "latest_price": "13.6200",
+    "market_price_diff": "-1.1100000000000012",
+    "market_price_percentage_diff": "-7.535641547861516"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693564",
+    "product_sub_type": "Holofoil",
+    "latest_price": "12.8800",
+    "market_price_diff": "-2.8199999999999985",
+    "market_price_percentage_diff": "-17.961783439490436"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693467",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.7200",
+    "market_price_diff": "-0.009999999999999787",
+    "market_price_percentage_diff": "-0.2680965147453026"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693471",
+    "product_sub_type": "Holofoil",
+    "latest_price": "4.6200",
+    "market_price_diff": "-1.0899999999999999",
+    "market_price_percentage_diff": "-19.089316987740805"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693524",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.7500",
+    "market_price_diff": "-0.7400000000000002",
+    "market_price_percentage_diff": "-16.481069042316264"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693546",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.8000",
+    "market_price_diff": "-1.1100000000000003",
+    "market_price_percentage_diff": "-22.606924643584527"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693553",
+    "product_sub_type": "Holofoil",
+    "latest_price": "5.1900",
+    "market_price_diff": "-1.29",
+    "market_price_percentage_diff": "-19.90740740740741"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693560",
+    "product_sub_type": "Holofoil",
+    "latest_price": "2.7000",
+    "market_price_diff": "0.2200000000000002",
+    "market_price_percentage_diff": "8.870967741935491"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693454",
+    "product_sub_type": "Holofoil",
+    "latest_price": "6.0200",
+    "market_price_diff": "-1.9400000000000004",
+    "market_price_percentage_diff": "-24.371859296482416"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693520",
+    "product_sub_type": "Holofoil",
+    "latest_price": "4.8200",
+    "market_price_diff": "0",
+    "market_price_percentage_diff": "0"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693516",
+    "product_sub_type": "Holofoil",
+    "latest_price": "19.6900",
+    "market_price_diff": "-3",
+    "market_price_percentage_diff": "-13.221683561040104"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693512",
+    "product_sub_type": "Holofoil",
+    "latest_price": "5.7100",
+    "market_price_diff": "-0.9100000000000001",
+    "market_price_percentage_diff": "-13.746223564954684"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693498",
+    "product_sub_type": "Holofoil",
+    "latest_price": "1.9900",
+    "market_price_diff": "-0.47",
+    "market_price_percentage_diff": "-19.10569105691057"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693469",
+    "product_sub_type": "Holofoil",
+    "latest_price": "2.1100",
+    "market_price_diff": "-0.41000000000000014",
+    "market_price_percentage_diff": "-16.269841269841276"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693509",
+    "product_sub_type": "Holofoil",
+    "latest_price": "5.3200",
+    "market_price_diff": "0.07000000000000028",
+    "market_price_percentage_diff": "1.3333333333333388"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693464",
+    "product_sub_type": "Holofoil",
+    "latest_price": "5.4700",
+    "market_price_diff": "0.009999999999999787",
+    "market_price_percentage_diff": "0.18315018315017925"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693450",
+    "product_sub_type": "Holofoil",
+    "latest_price": "2.5200",
+    "market_price_diff": "-0.6200000000000001",
+    "market_price_percentage_diff": "-19.74522292993631"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693480",
+    "product_sub_type": "Holofoil",
+    "latest_price": "4.7100",
+    "market_price_diff": "-0.5899999999999999",
+    "market_price_percentage_diff": "-11.13207547169811"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693482",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.3200",
+    "market_price_diff": "0.029999999999999805",
+    "market_price_percentage_diff": "0.9118541033434591"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693501",
+    "product_sub_type": "Holofoil",
+    "latest_price": "5.0700",
+    "market_price_diff": "0.11000000000000032",
+    "market_price_percentage_diff": "2.217741935483877"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693533",
+    "product_sub_type": "Holofoil",
+    "latest_price": "2.0400",
+    "market_price_diff": "-0.69",
+    "market_price_percentage_diff": "-25.274725274725274"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693535",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.6800",
+    "market_price_diff": "-1.6099999999999999",
+    "market_price_percentage_diff": "-30.43478260869565"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693541",
+    "product_sub_type": "Holofoil",
+    "latest_price": "3.0500",
+    "market_price_diff": "-0.5300000000000002",
+    "market_price_percentage_diff": "-14.804469273743024"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693548",
+    "product_sub_type": "Holofoil",
+    "latest_price": "7.8300",
+    "market_price_diff": "-0.7400000000000002",
+    "market_price_percentage_diff": "-8.634772462077015"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693551",
+    "product_sub_type": "Holofoil",
+    "latest_price": "7.2400",
+    "market_price_diff": "-1.7699999999999996",
+    "market_price_percentage_diff": "-19.64483906770255"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693554",
+    "product_sub_type": "Holofoil",
+    "latest_price": "1.8600",
+    "market_price_diff": "-0.30999999999999983",
+    "market_price_percentage_diff": "-14.28571428571428"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693517",
+    "product_sub_type": "Holofoil",
+    "latest_price": "305.5200",
+    "market_price_diff": "-45.47000000000003",
+    "market_price_percentage_diff": "-12.954785036610735"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693513",
+    "product_sub_type": "Holofoil",
+    "latest_price": "47.7300",
+    "market_price_diff": "-2.1799999999999997",
+    "market_price_percentage_diff": "-4.367862151873371"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693510",
+    "product_sub_type": "Holofoil",
+    "latest_price": "54.6400",
+    "market_price_diff": "-5.229999999999997",
+    "market_price_percentage_diff": "-8.735593786537493"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693465",
+    "product_sub_type": "Holofoil",
+    "latest_price": "84.5400",
+    "market_price_diff": "0.5800000000000125",
+    "market_price_percentage_diff": "0.6908051453073041"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693451",
+    "product_sub_type": "Holofoil",
+    "latest_price": "39.6600",
+    "market_price_diff": "-1.1500000000000057",
+    "market_price_percentage_diff": "-2.8179367802009447"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693542",
+    "product_sub_type": "Holofoil",
+    "latest_price": "33.2400",
+    "market_price_diff": "-1.8500000000000014",
+    "market_price_percentage_diff": "-5.272157309774869"
+  },
+  {
+    "catalog_group_id": "24655",
+    "product_id": "693518",
+    "product_sub_type": "Holofoil",
+    "latest_price": "257.6300",
+    "market_price_diff": "-13.199999999999989",
+    "market_price_percentage_diff": "-4.873906140383262"
+  }
+]
